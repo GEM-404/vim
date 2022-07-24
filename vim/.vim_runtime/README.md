@@ -1,1 +1,8 @@
-These are Matt's nvim config files. They are an eternal work in progress. Use at your own risk.
+
+<p><em>Masha's vim  configuration </em></p>
+
+<!---
+use them at your own risk
+--->
+
+<p> *** Taken from Matt's gitlab page... ** </p>
